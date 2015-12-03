@@ -1,23 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[monotone.github.io/dandiao]]></title>
+  <title><![CDATA[单调]]></title>
   <link href="monotone.github.io/dandiao/atom.xml" rel="self"/>
   <link href="monotone.github.io/dandiao/"/>
-  <updated>2015-12-01T14:04:41+08:00</updated>
+  <updated>2015-12-03T11:29:52+08:00</updated>
   <id>monotone.github.io/dandiao/</id>
   <author>
     <name><![CDATA[]]></name>
     
   </author>
-  <generator uri="http://www.coderforart.com/">CoderForArt</generator>
-
+  <generator uri="http://www.mweb.im/">MWeb</generator>
   
   <entry>
     <title type="html"><![CDATA[MWeb - 专业的 Markdown 写作、记笔记、静态博客生成软件]]></title>
-    <link href="monotone.github.io/dandiao/14489409762093.html"/>
+    <link href="monotone.github.io/dandiao/test.html"/>
     <updated>2015-12-01T11:36:16+08:00</updated>
-    <id>monotone.github.io/dandiao/14489409762093.html</id>
+    <id>monotone.github.io/dandiao/test.html</id>
     <content type="html"><![CDATA[
 <h2 id="toc_0">专业的 Markdown 写作支持</h2>
 
